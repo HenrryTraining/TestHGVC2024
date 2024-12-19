@@ -1,0 +1,27 @@
+*   8e8c202 Agregando estaciones del año con fecha de inicio
+|\  
+| * 987eb1d Agregando estaciones del año
+* | 7edb2e7 Agregando estaciones del año con fecha de inicio
+|/  
+*   385c45d Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * d8931a8 Agregando index.js al index.html
+* | 8895663 Agregando style.css al index.html
+* |   31e2e84 Merge branch 'js'
+|\ \  
+| * | 2850341 Creando index.js
+* | |   bc3d6d0 Merge branch 'css'
+|\ \ \  
+| * | | 3f53735 Creando style.css
+| | |/  
+| |/|   
+* | | 2c84225 Merge branch 'html'
+|\| | 
+| * | fb8d5ee Creando Index.html
+| |/  
+* / 6e55880 Creando lincense.txt
+|/  
+* 9f1e300 Exclude exe files
+* c9c4187 adde gitignore file
+* 169ef8b added one line to README file
+* 36a240a First commit

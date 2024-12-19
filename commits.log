@@ -1,0 +1,106 @@
+commit 8e8c202f5d816eb0581dd40982a1bee12b5efb54
+Merge: 7edb2e7 987eb1d
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Thu Dec 19 12:06:00 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7edb2e7b252631b3f1baedded1c83eb178200752
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Thu Dec 19 11:52:30 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 987eb1ded19b3d7668659966f4530c14a169f75e
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Thu Dec 19 11:52:30 2024 -0500
+
+    Agregando estaciones del año
+
+commit 385c45dcecb9856fc9ad33e4b3c7cd7130cbb9fa
+Merge: 8895663 d8931a8
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:51:00 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d8931a8a478e7bb0a3dce360be4c9c4103e12627
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:42:36 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 8895663d179c01b815922c8085bc3abde3b3da8f
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:39:03 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 31e2e84c5d5312dec8fe08e6197d0ebfb4c52c29
+Merge: bc3d6d0 2850341
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:26:21 2024 -0500
+
+    Merge branch 'js'
+
+commit bc3d6d08fbcea5ffc534d4058eb2cd1977532ac9
+Merge: 2c84225 3f53735
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:25:57 2024 -0500
+
+    Merge branch 'css'
+
+commit 2c8422500982063c28519dd40e635520cf7be3d9
+Merge: 6e55880 fb8d5ee
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:25:28 2024 -0500
+
+    Merge branch 'html'
+
+commit 6e55880540a836ffd464238e806bf0199f69f304
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:20:44 2024 -0500
+
+    Creando lincense.txt
+
+commit 2850341414365c4b6993be9842822fee5ccfbc99
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:15:08 2024 -0500
+
+    Creando index.js
+
+commit 3f53735c82d3f257038e7ac3f1da922095435a71
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:09:12 2024 -0500
+
+    Creando style.css
+
+commit fb8d5ee1ccda34122ebd5134fe82ac632a4e0bf1
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 16:02:38 2024 -0500
+
+    Creando Index.html
+
+commit 9f1e300f9d479a3f96bcc950581249c848bb7a52
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 13:54:30 2024 -0500
+
+    Exclude exe files
+
+commit c9c4187169bbf6e884058f540d17e835b0fcd146
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 13:51:59 2024 -0500
+
+    adde gitignore file
+
+commit 169ef8b861834a36b0a1e3fe02992e21013aede7
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 13:26:47 2024 -0500
+
+    added one line to README file
+
+commit 36a240a7831ac4ac27a31aad1bd217c85fc237b0
+Author: Henrry Velez <yagoh_ec@yahoo.com>
+Date:   Tue Dec 17 13:21:20 2024 -0500
+
+    First commit
